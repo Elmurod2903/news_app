@@ -1,5 +1,6 @@
 # News app 
-https://newsapi.org/
+https://newsapi.org/ 
+This application is based on multi-module. Used: Navigation,MVVM, Dependency injection with Hilt, Room, Coroutines,Receiver,Paging,View Binding,Moshi and others
 ## Main 
 ![news_2](https://user-images.githubusercontent.com/82223231/151155231-4c5b141c-97f0-42af-8929-5d643d2c1511.png)
 ![news_2](https://user-images.githubusercontent.com/82223231/151155499-9c8b1c47-550c-4ab1-81c4-e1ea5b87a1e5.png)
